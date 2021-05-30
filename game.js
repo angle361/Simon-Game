@@ -6,6 +6,8 @@ var userClickedPattern = [];
 var started = false;
 var level= 0;
 
+alert("Yes");
+
 $(document).keypress(function() {
     if(!started)
     {
