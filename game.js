@@ -7,6 +7,7 @@ var started = false;
 var level= 0;
 
 alert("Yes");
+alert("Hello");
 
 $(document).keypress(function() {
     if(!started)
