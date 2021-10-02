@@ -54,4 +54,6 @@ body {
 
 .random_name {
   display: block;
+  width: 100%;
+  color: black;
 }
