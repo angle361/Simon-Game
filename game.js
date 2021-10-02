@@ -7,6 +7,7 @@ var started = false;
 var level= 0;
 
 // alert("Yes");
+// For adding functionality to game
 
 $(document).keypress(function() {
     if(!started)
